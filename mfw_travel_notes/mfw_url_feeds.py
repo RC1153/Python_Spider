@@ -13,3 +13,7 @@ request_headers = {
     'accept': "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
     'accept-language': "zh-CN,en-US;q=0.8,en;q=0.6"
 }
+
+city_home_pages = []
+city_ids = []
+dirname = 'mafengwo_notes/'
